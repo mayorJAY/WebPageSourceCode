@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\ddd3898bc23ef2e2ee2c30dd51dbfcc5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\6a26a72431e608c10b15463799a5cd3d\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\52df451e3d11f2d73e4f8902e57eddfc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\5023f4383b41cc8b78281fe720d45997\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\484f2d0b3eb1a7e0521ebc6633203343\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cec997b02fb09c3539fd112d11306013\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\48fae5c6df09e765417cc69e79cc73d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a713c8acf987cf407f6f034f60a5f939\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\2d927c2353a81740e505d27c0e1e3484\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\7dca09a6b51d55f1b60b8ed4aa763da7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\638cdfcc49d3185f5af2f600094e9703\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\c1487fcd9f4ccf32c5e47b573072fd4b\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\8ea1f43c239fae697b2952416b9ac12d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\dda6607d8658234fc41097a134aaee84\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\0e451f4e1917110935dd6b991b56ee3f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\f942fc86c585f7558033b0a64bffe2bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\d4999ac88f97d1fdd41077c0b8d629bc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\301d7b58317c381234229efa51f232dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\ced7a6dddaf70e9faf826e93ca1ac93d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\e0c2b4162f922c7940ca696092a2dd49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9dfccd7ff09ac305ee335e2b89865728\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:4:5-52
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:6:18-37
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:10:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\6a26a72431e608c10b15463799a5cd3d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\6a26a72431e608c10b15463799a5cd3d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\c1487fcd9f4ccf32c5e47b573072fd4b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\c1487fcd9f4ccf32c5e47b573072fd4b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\dda6607d8658234fc41097a134aaee84\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\dda6607d8658234fc41097a134aaee84\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\c1487fcd9f4ccf32c5e47b573072fd4b\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.josycom.webpagesourcecode.MainActivity
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\ddd3898bc23ef2e2ee2c30dd51dbfcc5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\ddd3898bc23ef2e2ee2c30dd51dbfcc5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\6a26a72431e608c10b15463799a5cd3d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\6a26a72431e608c10b15463799a5cd3d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\52df451e3d11f2d73e4f8902e57eddfc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\52df451e3d11f2d73e4f8902e57eddfc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\5023f4383b41cc8b78281fe720d45997\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\5023f4383b41cc8b78281fe720d45997\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\484f2d0b3eb1a7e0521ebc6633203343\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\484f2d0b3eb1a7e0521ebc6633203343\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cec997b02fb09c3539fd112d11306013\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\cec997b02fb09c3539fd112d11306013\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\48fae5c6df09e765417cc69e79cc73d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\48fae5c6df09e765417cc69e79cc73d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a713c8acf987cf407f6f034f60a5f939\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\a713c8acf987cf407f6f034f60a5f939\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\2d927c2353a81740e505d27c0e1e3484\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\2d927c2353a81740e505d27c0e1e3484\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\7dca09a6b51d55f1b60b8ed4aa763da7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\7dca09a6b51d55f1b60b8ed4aa763da7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\638cdfcc49d3185f5af2f600094e9703\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\638cdfcc49d3185f5af2f600094e9703\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\c1487fcd9f4ccf32c5e47b573072fd4b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\c1487fcd9f4ccf32c5e47b573072fd4b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\8ea1f43c239fae697b2952416b9ac12d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\8ea1f43c239fae697b2952416b9ac12d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\dda6607d8658234fc41097a134aaee84\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\dda6607d8658234fc41097a134aaee84\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\0e451f4e1917110935dd6b991b56ee3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\0e451f4e1917110935dd6b991b56ee3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\f942fc86c585f7558033b0a64bffe2bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\f942fc86c585f7558033b0a64bffe2bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\d4999ac88f97d1fdd41077c0b8d629bc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\d4999ac88f97d1fdd41077c0b8d629bc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\301d7b58317c381234229efa51f232dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\301d7b58317c381234229efa51f232dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\ced7a6dddaf70e9faf826e93ca1ac93d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\ced7a6dddaf70e9faf826e93ca1ac93d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\e0c2b4162f922c7940ca696092a2dd49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\e0c2b4162f922c7940ca696092a2dd49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9dfccd7ff09ac305ee335e2b89865728\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\JOSYCOM\.gradle\caches\transforms-2\files-2.1\9dfccd7ff09ac305ee335e2b89865728\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JOSYCOM\AndroidStudioProjects\WebPageSourceCode\app\src\main\AndroidManifest.xml
